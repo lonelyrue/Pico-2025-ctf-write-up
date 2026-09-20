@@ -13,12 +13,12 @@ A collection of detailed write-ups for eight challenges across Web Exploitation,
 |---|-----------|----------|------------|------|
 | 1 | [n0s4n1ty](web/n0s4n1ty/) | Web Exploitation | Easy | `picoCTF{wh47_c4n_u_d0_wPHP_5fd11be6}` |
 | 2 | [Cookie Monster's Secret Recipe](web/cookie-monster/) | Web Exploitation | Easy | `picoCTF{c00k1e_m0nster_l0ves_c00kies_B3AD94C2}` |
-| 3 | [Apriti Sesamo](web/apriti-sesamo/) | Web Exploitation | Medium | `picoCTF{...}` |
+| 3 | [Apriti Sesamo](web/apriti-sesamo/) | Web Exploitation | Medium | `picoCTF{w3L1_d3sErV3d_Ch4mp_d0d2b9d7}` |
 | 4 | [Ph4nt0m 1ntrud3r](forensics/ph4nt0m-intruder/) | Forensics | Easy | `picoCTF{1t_w4snt_th4t_34sy_tbh_4r_d1065384}` |
 | 5 | [RED](forensics/red/) | Forensics / Stego | Medium | `picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}` |
 | 6 | [perplexed](reverse/perplexed/) | Reverse Engineering | Medium | `picoCTF{0n3_bi7_4t_a_7im3}` |
 | 7 | [Guess My Cheese (Part 1)](crypto/guess-my-cheese/) | Cryptography | Easy | `picoCTF{CHEESEISTHEBEST}` |
-| 8 | [flags are stepic](stego/flags-are-stepic/) | Steganography | Easy | `picoCTF{...}` |
+| 8 | [flags are stepic](stego/flags-are-stepic/) | Steganography | Easy | `picoCTF{fl4g_h45_f14g76ad3830}` |
 
 ---
 

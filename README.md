@@ -18,7 +18,7 @@ A collection of detailed write-ups for nine challenges across Web Exploitation, 
 | 5 | [RED](forensics/red/) | Forensics / Stego | Medium | `picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}` |
 | 6 | [perplexed](reverse/perplexed/) | Reverse Engineering | Medium | `picoCTF{0n3_bi7_4t_a_7im3}` |
 | 7 | [Tap into Hash](reverse/tap-into-hash/) | Reverse Engineering | Medium | `picoCTF{block_3SRhViRbT1qcX_XUjM0r49cH_qCzmJZzBK_41c10331}` |
-| 8 | [Guess My Cheese (Part 1)](crypto/guess-my-cheese/) | Cryptography | Easy | `picoCTF{CHEESEISTHEBEST}` |
+| 8 | [Guess My Cheese (Part 1)](crypto/guess-my-cheese/) | Cryptography | Easy | `picoCTF{ChEeSy7df82c21}` |
 | 9 | [flags are stepic](stego/flags-are-stepic/) | Steganography | Easy | `picoCTF{fl4g_h45_f14g76ad3830}` |
 
 ---

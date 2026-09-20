@@ -1,6 +1,6 @@
 # picoCTF 2025 — Write-ups
 
-**Author:** Anastasia Vasilyeva  
+**Author:** Anastasia Vasileva  
 **Event:** picoCTF 2025
 
 A collection of detailed write-ups for eight challenges across Web Exploitation, Forensics, Reverse Engineering, Cryptography, and Steganography. Each write-up explains the vulnerability or technique from first principles, documents the full solve path with screenshots, and discusses root causes and mitigations where applicable.
